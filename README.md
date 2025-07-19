@@ -42,13 +42,6 @@ Currently, I'm diving deep into Java and Spring Boot while also exploring full-s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nursvasi&show_icons=true&theme=radical" alt="nursvasi stats" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
