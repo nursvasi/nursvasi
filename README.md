@@ -41,6 +41,31 @@ Currently, I'm diving deep into Java and Spring Boot while also exploring full-s
   Step-by-step lessons with practical examples using Spring Boot, designed for beginners.
 
 ---
+### 👨‍💻 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![nursvasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nursvasi&show_icons=true&theme=github_dark&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nursvasi&layout=compact&theme=github_dark)
+
+---
+
+### 🌱 Currently Learning
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nursvasi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nursvasi/)
 
 
 ### 📫 Connect with Me
